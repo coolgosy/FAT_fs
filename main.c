@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<time.h>
+#include <math.h>
+
+int main(int argc, char const *argv[])
+{
+	printf("test\n");
+	return 0;
+}
