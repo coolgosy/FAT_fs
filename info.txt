@@ -1,0 +1,4 @@
+floppy.img: DOS/MBR boot sector, code offset 0x3c+2, OEM-ID "mkfs.fat", 
+root entries 224, sectors 2880 (volumes <=32 MB), sectors/FAT 9, 
+sectors/track 18, serial number 0x45673941,
+ unlabeled, FAT (12 bit), followed by FAT
